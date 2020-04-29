@@ -1,2 +1,2 @@
 # This is a simple demo program
-print("Hello wWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWorld!")
+print("Hello World!")
