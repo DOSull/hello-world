@@ -1,2 +1,4 @@
 # This is a simple demo program
-print("Hello World!")
+print("Hello wWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWorld!")
+print("Hello world!")
+print("GIS is awesome")
